@@ -41,8 +41,8 @@ A fully functional to-do list web app that saves tasks and filter preferences us
 - **Git push rejected** because GitHub auto‑created a README – learned to use `git push -f` when the remote history is irrelevant.
 - **ES modules CORS error** – discovered that `file://` protocol doesn’t work; switched to Live Server.
 
-## Screenshots (optional)
+## Screenshots
 ![Todo List Screenshot](screenshot.png)
 
 ## Live Demo (if deployed)
-[View Live Demo](https://stephen-mwai-dev.github.io/iyf-s10-week-07-stephen-mwai-dev/)
+
